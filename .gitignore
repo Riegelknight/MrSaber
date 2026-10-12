@@ -1,0 +1,16 @@
+Library/
+Temp/
+Logs/
+obj/
+UserSettings/
+MrSaber_BurstDebugInformation_DoNotShip/
+*.apk
+MrSaber_Library_Backup_*/
+*.csproj
+*.sln
+Songs/
+
+.vs/
+.vscode/
+*.user
+*.aab
